@@ -1,0 +1,68 @@
+body {
+   background-color: cadetblue;
+   
+}
+
+img.home {
+   height: 500px;
+   width: 500px;
+}
+
+.footer{
+   background-color: rgba(1, 20, 1, 0.7);
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.btn{
+   background-color:rgb(53, 52, 52);
+   border: none;
+   color: snow
+}
+
+.btn:hover{
+   background-color: rgba(230, 233, 231, 0.986);
+   border: none;
+}
+
+#mainNav{
+   background-color: rgba(1, 20, 1, 0.7) ;
+}
+
+.bg-faded{
+   background-color: rgba(235, 238, 235)
+;
+}
+.cta {
+background-color: rgba(1, 20, 1, 0.7);
+}   
+.about-heading-img{
+   height: auto;
+   width:700px;
+}
+.product-item-img{
+   height: auto;
+   width: 800px;
+}
+
+.site-heading{
+   background-color:rgba(230, 233, 231, 0.822);
+   margin-top: 0px ;
+   margin-bottom: 0px;
+   line-height: 2;
+
+}
+
+.site-heading-lower{
+   color: rgb(138, 116, 88);
+}
+
+a{
+   color: seagreen;
+}
+a:hover{
+   color: slategray ;
+}
+
+#mainNav .navbar-brand{
+  color: snow; 
+}
